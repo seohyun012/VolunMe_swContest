@@ -12,6 +12,10 @@
 <img width="313" height="684" alt="image" src="https://github.com/user-attachments/assets/2da61393-0b29-430a-b281-1975c77abb82" />
 <img width="320" height="692" alt="image" src="https://github.com/user-attachments/assets/256b6648-f3a7-4a80-8461-2e15b5f277c8" />
 
+---
+
+### 🎨 Design & Prototype
+* [Link to Figma Design](https://www.figma.com/design/dI9pJC2aDUh1wgDVwyvf7s/Untitled?node-id=0-1&p=f&t=gg1CKz2ei4Cadt0S-0)
 
 ### 🎬 Demo Video
 * [📺 서비스 시연 영상 (YouTube)](https://youtu.be/kfXUF1uoRMQ)
@@ -41,4 +45,5 @@
 * **Backend**: Spring, Thymeleaf
 * **Infrastructure**: AWS
 * **Design**: Figma
+
 
