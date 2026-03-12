@@ -1,4 +1,4 @@
-# 🤝 VolunMe (볼런미)
+# 🤝 VolunMe (볼룬미)
 > **2025 SW경진대회 참여작**
 > 
 > 사용자의 감정과 성취감을 중심으로 설계된 게이미피케이션 봉사 매칭 플랫폼
@@ -6,7 +6,7 @@
 ---
 
 ### 🖥️ Project View
-<img width="339" height="727" alt="image" src="https://github.com/user-attachments/assets/738590b4-4f01-44e1-92cc-ca63b5d30f69" />
+<img width="339" height="700" alt="image" src="https://github.com/user-attachments/assets/738590b4-4f01-44e1-92cc-ca63b5d30f69" />
 <img width="326" height="695" alt="image" src="https://github.com/user-attachments/assets/d0fa04b1-7478-404b-8667-031189c45ee8" />
 <img width="321" height="695" alt="image" src="https://github.com/user-attachments/assets/eaa57ce7-7fe1-4c2e-88f6-aeb232ff38b2" />
 <img width="313" height="684" alt="image" src="https://github.com/user-attachments/assets/2da61393-0b29-430a-b281-1975c77abb82" />
@@ -17,7 +17,7 @@
 * [📺 서비스 시연 영상 (YouTube)](https://youtu.be/kfXUF1uoRMQ)
 
 ### 📂 Project Documents
-* [📄 프로젝트 최종 발표 자료 (PDF)](여기에_업로드한_PDF_링크_붙여넣기)
+* [📄 프로젝트 최종 발표 자료 (PDF)](https://github.com/seohyun012/VolunMe_swContest/blob/main/VolunMe%EB%B0%9C%ED%91%9C.pdf)
 
 ---
 
@@ -41,3 +41,4 @@
 * **Backend**: Spring, Thymeleaf
 * **Infrastructure**: AWS
 * **Design**: Figma
+
